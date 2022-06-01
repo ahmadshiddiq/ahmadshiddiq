@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmad Shiddiq</h1>
-<h3 align="center">Frontend web developer mostly working using react and tailwind.</h3>
+<h3 align="center">Frontend web developer mostly working using React.js and TailwindCSS.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadshiddiq&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadshiddiq" /> </p>
 
@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ahmadshiddiq/](https://www.linkedin.com/in/ahmadshiddiq/)
 
-- ⚡ Fun fact **Learning about stoic.**
+- ⚡ Fun fact **Currently learning about stoic.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
