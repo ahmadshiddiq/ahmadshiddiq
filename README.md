@@ -4,3 +4,4 @@
 - Mostly work using React.js & TailwindCSS
 - Right now I'm learning at https://www.epicreact.dev
 - Love playing games 🎮
+- visit my website at: https://www.ahmadshiddiq.me (still under construction 😉)
