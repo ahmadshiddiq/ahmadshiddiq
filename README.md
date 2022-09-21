@@ -4,5 +4,5 @@
 - Mostly work using React.js, Vue.js & TailwindCSS
 - Right now I'm learning at frontendmasters.com
 - Want to contibute on open-source project (please contact me!)
-- Love playing games 🎮
+- Interested on cloud in the sky and like playing games 🎮
 - visit my website at: https://www.ahmadshiddiq.me (still under construction 😉)
