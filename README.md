@@ -1,8 +1,6 @@
 ## Hi 👋 I'm Ahmad Shiddiq
 
-- I'm currently working freelance as frontend web developer
+- I'm currently working freelance as frontend web engineer
 - Mostly work using Vue.js, React.js, Vuetify & TailwindCSS
-- Right now I'm learning at [Frontend Masters](https://www.frontendmasters.com)
-- Want to contibute on open-source project (please contact me!)
-- Interested on cloud in the sky and like playing games 🎮
+- Right now I'm learning at [UI](https://www.ui.dev)
 - Visit my website at: [Ahmad Shiddiq](https://www.ahmadshiddiq.me)
